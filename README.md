@@ -6,4 +6,6 @@ from this evolved data new features are extracted and are used for training the 
 
 The data set used is the  Statlog German Credit Data
 
-The model outperformed the classical counter parts
+The model outperformed the classical counter parts which are SVM , gradient boost and random forest
+
+
